@@ -1,0 +1,4 @@
+http://www.yiibai.com/spring_mvc/spring-4-mvc-contentnegotiatingviewresolver-example.html
+http://blog.csdn.net/fw0124/article/details/48315523
+http://blog.csdn.net/qwe6112071/article/details/51039511
+http://blog.csdn.net/qwe6112071/article/details/51081917
