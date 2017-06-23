@@ -23,11 +23,11 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ContentNegotiatingViewResolver" />
-        <module name="SpringMvc4all" />
+        <module name="mybaties" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ContentNegotiatingViewResolver" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="mybaties" target="1.8" />
       <module name="SpringMvc4all" target="1.5" />
     </bytecodeTargetLevel>
   </component>

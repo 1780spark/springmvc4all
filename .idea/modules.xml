@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringMvc4all.iml" filepath="$PROJECT_DIR$/SpringMvc4all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaties/mybaties.iml" filepath="$PROJECT_DIR$/mybaties/mybaties.iml" />
     </modules>
   </component>
 </project>
