@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.yiibai.springmvc</groupId>
-	<artifactId>ContentNegotiatingViewResolver</artifactId>
+	<artifactId>springmvc4all</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ContentNegotiatingViewResolver  Maven Webapp</name>
+	<name>springmvc4all  Maven Webapp</name>
     <url>http://maven.apache.org</url>
 	<properties>
 		<springframework.version>4.0.6.RELEASE</springframework.version>
@@ -92,13 +92,13 @@
 					<version>2.4</version>
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
-						<warName>ContentNegotiatingViewResolver</warName>
+						<warName>springmvc4all</warName>
 						<failOnMissingWebXml>false</failOnMissingWebXml>
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
 
-		<finalName>ContentNegotiatingViewResolver</finalName>
+		<finalName>springmvc4all</finalName>
 	</build>
 </project>

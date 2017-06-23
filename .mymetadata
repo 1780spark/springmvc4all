@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="ContentNegotiatingViewResolver Maven Webapp"
+  name="springmvc4all Maven Webapp"
   id="myeclipse.1452428566937"
-  context-root="/ContentNegotiatingViewResolver"
+  context-root="/springmvc4all"
   j2ee-spec="6.0"
-  archive="ContentNegotiatingViewResolver Maven Webapp.war">
+  archive="springmvc4all Maven Webapp.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
