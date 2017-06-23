@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class AppController {
 
 	@RequestMapping(value="/rscala/{name}", method = RequestMethod.GET)
-	public String getPizza(@PathVariable String name, ModelMap model) {
+	public String getWine(@PathVariable String name, ModelMap model) {
  
 		Wine wine = new Wine(name);
 		model.addAttribute("name", wine);
